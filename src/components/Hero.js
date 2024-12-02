@@ -5,16 +5,16 @@ export default function Hero() {
   const config ={
     subtitle: 'Im a Full-stack devoloper',
     social:{
-    github:"https://github.com/jeevanraj",
-    whatsapp:"https://wa.me/8870860245/",
-    instagram:"https://www.instagram.com/jeevanraj1244/"
+    github:"https://github.com/sowndharyasenthil12/amsec-static-2.git",
+    whatsapp:"https://wa.me/7092462386/",
+    instagram:"https://www.instagram.com/sowndharya__senthilkumar/profilecard/?igsh=emppMzM2NnZzczc5"
     } 
    
   }
 
     return <section className='flex flex-col  md:flex-row px-5 py-32  bg-secondary justify-center ' id='hero'>
         <div className=' md:  w-1/2 flex flex-col'>
-            <h1 className=' text-white text-4xl font hero-font '>Hi,<br/> i am jeevanraj
+            <h1 className=' text-white text-4xl font hero-font '>Hi,<br/> i am sowndharya
         <p className='text-2xl'>{config.subtitle}</p>
        </h1> 
        <div className='flex py-10'>

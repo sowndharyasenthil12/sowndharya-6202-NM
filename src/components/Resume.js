@@ -2,7 +2,7 @@ import RESUMEIMG from '../components/assets/resume.jpg'
 
 export default function Resume() {
         const config ={
-            link:'https://publuu.com/flip-book/714555/1588086'
+            link:'https://publuu.com/flip-book/715580/1590320'
         }
    
     return <section id='resume' className='flex flex-col md:flex-row bg-secondary px-5 py-5'>
